@@ -1,6 +1,6 @@
 {
   "name": "@mx-market/stocks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Catálogo de 39 acciones BMV/SIC con búsqueda y mapeo a Yahoo Finance",
   "type": "module",
   "main": "dist/index.js",
@@ -11,11 +11,20 @@
       "import": "./dist/index.js"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["bmv", "bolsa", "mexico", "stocks", "tickers", "sic"],
+  "keywords": [
+    "bmv",
+    "bolsa",
+    "mexico",
+    "stocks",
+    "tickers",
+    "sic"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

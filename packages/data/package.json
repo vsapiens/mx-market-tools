@@ -1,6 +1,6 @@
 {
   "name": "@mx-market/data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Datos de mercado de Yahoo Finance para acciones mexicanas (BMV/SIC)",
   "type": "module",
   "main": "dist/index.js",
@@ -11,7 +11,9 @@
       "import": "./dist/index.js"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -23,7 +25,14 @@
       "optional": true
     }
   },
-  "keywords": ["bmv", "bolsa", "mexico", "yahoo-finance", "market-data", "ohlcv"],
+  "keywords": [
+    "bmv",
+    "bolsa",
+    "mexico",
+    "yahoo-finance",
+    "market-data",
+    "ohlcv"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

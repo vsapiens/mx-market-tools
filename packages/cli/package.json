@@ -1,6 +1,6 @@
 {
   "name": "@mx-market/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI para analizar acciones de la BMV con indicadores técnicos",
   "type": "module",
   "main": "dist/index.js",
@@ -14,18 +14,27 @@
       "import": "./dist/index.js"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
   "dependencies": {
-    "@mx-market/signals": "0.1.0",
-    "@mx-market/stocks": "0.1.0",
-    "@mx-market/data": "0.1.0",
+    "@mx-market/signals": "0.1.1",
+    "@mx-market/stocks": "0.1.1",
+    "@mx-market/data": "0.1.1",
     "commander": "^13.0.0",
     "chalk": "^5.4.0"
   },
-  "keywords": ["bmv", "bolsa", "mexico", "stocks", "cli", "technical-analysis"],
+  "keywords": [
+    "bmv",
+    "bolsa",
+    "mexico",
+    "stocks",
+    "cli",
+    "technical-analysis"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

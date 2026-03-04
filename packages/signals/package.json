@@ -1,6 +1,6 @@
 {
   "name": "@mx-market/signals",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Indicadores técnicos para acciones de la BMV — SMA, RSI, ATR, volumen, P/E",
   "type": "module",
   "main": "dist/index.js",
@@ -11,11 +11,23 @@
       "import": "./dist/index.js"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["bmv", "bolsa", "mexico", "stocks", "technical-analysis", "signals", "sma", "rsi", "atr"],
+  "keywords": [
+    "bmv",
+    "bolsa",
+    "mexico",
+    "stocks",
+    "technical-analysis",
+    "signals",
+    "sma",
+    "rsi",
+    "atr"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
