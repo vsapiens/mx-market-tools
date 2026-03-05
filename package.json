@@ -7,7 +7,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "npm run build --workspaces",
+    "build": "npm run build -w packages/signals -w packages/stocks -w packages/data -w packages/cli",
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "tsc --noEmit",
