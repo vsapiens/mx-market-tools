@@ -24,7 +24,7 @@
     "@mx-market/signals": "0.1.1",
     "@mx-market/stocks": "0.1.1",
     "@mx-market/data": "0.1.1",
-    "commander": "^13.0.0",
+    "commander": "^14.0.3",
     "chalk": "^5.4.0"
   },
   "keywords": [
