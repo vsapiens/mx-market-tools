@@ -33,6 +33,13 @@
     "market-data",
     "ohlcv"
   ],
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
