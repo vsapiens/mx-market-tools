@@ -1,0 +1,102 @@
+symbol,yahooSymbol,name,sector
+AMXL,AMXB.MX,América Móvil,Telecom
+MEGACPO,MEGACPO.MX,Megacable Holdings,Telecom
+SITESB-1,SITESB-1.MX,Sitios Latinoamérica,Telecom
+AXTELCPO,AXTELCPO.MX,Axtel,Telecom
+TOTALPL,TOTALPL.MX,Total Play Telecomunicaciones,Telecom
+FEMSAUBD,FEMSAUBD.MX,Fomento Económico Mexicano (FEMSA),Consumer
+KOFUBL,KOFUBL.MX,Coca-Cola FEMSA,Beverages
+AC*,AC.MX,Arca Continental,Beverages
+CUERVO*,CUERVO.MX,Becle (José Cuervo),Beverages
+CULTIBAB,CULTIBAB.MX,Cultivar,Beverages
+BIMBOA,BIMBOA.MX,Grupo Bimbo,Food
+GRUMAB,GRUMAB.MX,Gruma,Food
+BACHOCOB,BACHOCOB.MX,Industrias Bachoco,Food
+HERDEZ*,HERDEZ.MX,Grupo Herdez,Food
+LALAB,LALAB.MX,Grupo Lala,Food
+MINSA*,MINSAB.MX,Grupo Minsa,Food
+KIMBERA,KIMBERA.MX,Kimberly-Clark de México,Consumer Products
+ALSEA*,ALSEA.MX,Alsea,Consumer Products
+WALMEX*,WALMEX.MX,Walmart de México,Retail
+CHDRAUIB,CHDRAUIB.MX,Grupo Chedraui,Retail
+SORIANAB,SORIANAB.MX,Organización Soriana,Retail
+LIVEPOLC-1,LIVEPOLC-1.MX,El Puerto de Liverpool,Retail
+LACOMERUBC,LACOMERUBC.MX,La Comer,Retail
+ELEKTRA*,ELEKTRA.MX,Grupo Elektra,Retail
+GCARSOA1,GCARSOA1.MX,Grupo Carso,Retail
+COPPEL,COPPEL.MX,Coppel,Retail
+GFINBURO,GFINBURO.MX,Grupo Financiero Inbursa,Financial
+GFNORTEO,GFNORTEO.MX,Grupo Financiero Banorte,Financial
+BSMXB,BSMXB.MX,Banco Santander México,Financial
+GENTERA,GENTERA.MX,Gentera,Financial
+BOLSAA,BOLSAA.MX,Bolsa Mexicana de Valores,Financial
+GFREGIOO,GFREGIOO.MX,Banregio Grupo Financiero,Financial
+CREAL*,CREAL.MX,Crédito Real,Financial
+FINDEP*,FINDEP.MX,Financiera Independencia,Financial
+UNIFINA,UNIFINA.MX,Unifin Financiera,Financial
+BBAJIOO,BBAJIOO.MX,BanBajío,Financial
+MONEXB,MONEXB.MX,Monex Grupo Financiero,Financial
+GFMULTIO,GFMULTIO.MX,Grupo Financiero Multiva,Financial
+CIBANCOB,CIBANCOB.MX,CIBanco,Financial
+ACTINVRB,ACTINVRB.MX,Corporación Actinver,Financial
+VALUEGFO,VALUEGFO.MX,Value Grupo Financiero,Financial
+RA*,RA.MX,Regional SAB,Financial
+Q*,Q.MX,Quálitas Controladora,Insurance
+GMEXICOB,GMEXICOB.MX,Grupo México,Mining
+PENOLES*,PENOLES.MX,Industrias Peñoles,Mining
+MFRISCOA-1,MFRISCOA-1.MX,Minera Frisco,Mining
+AUTLANB,AUTLANB.MX,Compañía Minera Autlán,Mining
+CEMEXCPO,CEMEXCPO.MX,CEMEX,Materials
+ALPEKA,ALPEKA.MX,Alpek,Materials
+ORBIA*,ORBIA.MX,Orbia,Materials
+CYDSASAA,CYDSASAA.MX,Cydsa,Chemicals
+MEXCHEM*,MEXCHEM.MX,Mexichem,Chemicals
+ALFAA,ALFAA.MX,Alfa,Conglomerate
+NEMAKA,NEMAKA.MX,Nemak,Conglomerate
+GISSAA,GISSAA.MX,GIS (Grupo Industrial Saltillo),Conglomerate
+VITROA,VITROA.MX,Vitro,Conglomerate
+TLEVICPO,TLEVICPO.MX,Televisa (Grupo Televisa),Media
+TVAZTCPO,TVAZTCPO.MX,TV Azteca,Media
+CMOCTEZ*,CMOCTEZ.MX,Corporación Moctezuma,Media
+CIDMEGA,CIDMEGA.MX,CIE (Corporación Interamericana),Entertainment
+GAPB,GAPB.MX,Aeropuertos del Pacífico (GAP),Aviation
+ASURB,ASURB.MX,Aeropuertos del Sureste (ASUR),Aviation
+OMAB,OMAB.MX,Grupo Aeroportuario Centro Norte (OMA),Aviation
+VOLARA,VOLARA.MX,Volaris (Controladora Vuela),Aviation
+PINFRA*,PINFRA.MX,Promotora y Operadora de Infraestructura,Infrastructure
+IDEALB-1,IDEALB-1.MX,Impulsora del Desarrollo y el Empleo (IDEAL),Infrastructure
+AGUA*,AGUA.MX,Grupo Rotoplas,Infrastructure
+OHLMEX*,OHLMEX.MX,OHL México,Infrastructure
+FUNO11,FUNO11.MX,Fibra Uno,REIT
+FIBRAPL14,FIBRAPL14.MX,Fibra Prologis,REIT
+FMTY14,FMTY14.MX,Fibra Monterrey,REIT
+TERRA13,TERRA13.MX,Fibra Terrafina,REIT
+DANHOS13,DANHOS13.MX,Fibra Danhos,REIT
+FIBRAMQ12,FIBRAMQ12.MX,Fibra Macquarie,REIT
+FSHOP13,FSHOP13.MX,Fibra Shop,REIT
+FIBRHDP15,FIBRHDP15.MX,Fibra HD,REIT
+FNOVA17,FNOVA17.MX,Fibra Nova,REIT
+VESTA*,VESTA.MX,Corporación Inmobiliaria Vesta,Real Estate
+CADUA,CADUA.MX,Corpovael (CADU Inmobiliaria),Real Estate
+ARA*,ARA.MX,Consorcio ARA,Real Estate
+HOMEX*,HOMEX.MX,Desarrolladora Homex,Real Estate
+LABB,LABB.MX,Genomma Lab Internacional,Healthcare
+MEDICA*,MEDICA.MX,Médica Sur,Healthcare
+IENOVA*,IENOVA.MX,Infraestructura Energética Nova,Energy
+RASSINIA,RASSINIA.MX,Rassini,Energy
+TRAXIONA,TRAXIONA.MX,Traxión,Energy
+CERAMICB,CERAMICB.MX,Internacional de Cerámica,Industrial
+POCHTECB,POCHTECB.MX,Grupo Pochteca,Industrial
+ABORAB,ABORAB.MX,Abastecedora de Insumos (ABORA),Industrial
+BEVIDESB,BEVIDESB.MX,Farmacias Benavides,Industrial
+SIMECB,SIMECB.MX,Grupo Simec,Industrial
+ICH*,ICHB.MX,Industrias CH,Industrial
+LAMOSA*,LAMOSA.MX,Grupo Lamosa,Industrial
+CONVERA,CONVERA.MX,Convertidora Industrial,Education
+SABORB,SABORB.MX,Grupo Herdez (Sabores),Services
+SPORTS,SPORTS.MX,Grupo Sports World,Services
+HOTEL*,HOTEL.MX,Grupo Hotelero Santa Fe,Services
+DINEB,DINEB.MX,Dine,Services
+MAXCOMCPO,MAXCOMCPO.MX,Maxcom Telecomunicaciones,Technology
+PAPPEL*,PAPPEL.MX,Bio Pappel,Packaging
+TEAK*,TEAK.MX,Proteak Uno,Forestry

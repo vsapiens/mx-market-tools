@@ -1,0 +1,349 @@
+symbol,yahooSymbol,name,sector
+AAPL,AAPL.MX,Apple Inc.,Technology
+MSFT,MSFT.MX,Microsoft Corporation,Technology
+GOOGL,GOOGL.MX,Alphabet Inc. (Google),Technology
+GOOG,GOOG.MX,Alphabet Inc. Class C,Technology
+META,META.MX,Meta Platforms,Technology
+AMZN,AMZN.MX,Amazon.com Inc.,Technology
+NVDA,NVDA.MX,NVIDIA Corporation,Technology
+TSM,TSM.MX,Taiwan Semiconductor (TSMC),Technology
+AVGO,AVGO.MX,Broadcom Inc.,Technology
+ORCL,ORCL.MX,Oracle Corporation,Technology
+CSCO,CSCO.MX,Cisco Systems,Technology
+CRM,CRM.MX,Salesforce Inc.,Technology
+ACN,ACN.MX,Accenture,Technology
+ADBE,ADBE.MX,Adobe Inc.,Technology
+AMD,AMD.MX,Advanced Micro Devices,Technology
+INTC,INTC.MX,Intel Corporation,Technology
+TXN,TXN.MX,Texas Instruments,Technology
+QCOM,QCOM.MX,Qualcomm Inc.,Technology
+INTU,INTU.MX,Intuit Inc.,Technology
+AMAT,AMAT.MX,Applied Materials,Technology
+NOW,NOW.MX,ServiceNow Inc.,Technology
+IBM,IBM.MX,International Business Machines,Technology
+MU,MU.MX,Micron Technology,Technology
+SNPS,SNPS.MX,Synopsys Inc.,Technology
+CDNS,CDNS.MX,Cadence Design Systems,Technology
+LRCX,LRCX.MX,Lam Research,Technology
+KLAC,KLAC.MX,KLA Corporation,Technology
+NXPI,NXPI.MX,NXP Semiconductors,Technology
+MRVL,MRVL.MX,Marvell Technology,Technology
+PANW,PANW.MX,Palo Alto Networks,Technology
+CRWD,CRWD.MX,CrowdStrike Holdings,Technology
+FTNT,FTNT.MX,Fortinet Inc.,Technology
+PLTR,PLTR.MX,Palantir Technologies,Technology
+SHOP,SHOP.MX,Shopify Inc.,Technology
+SNOW,SNOW.MX,Snowflake Inc.,Technology
+WDAY,WDAY.MX,Workday Inc.,Technology
+NET,NET.MX,Cloudflare Inc.,Technology
+DDOG,DDOG.MX,Datadog Inc.,Technology
+ZS,ZS.MX,Zscaler Inc.,Technology
+MCHP,MCHP.MX,Microchip Technology,Technology
+ON,ON.MX,ON Semiconductor,Technology
+HPE,HPE.MX,Hewlett Packard Enterprise,Technology
+HPQ,HPQ.MX,HP Inc.,Technology
+DELL,DELL.MX,Dell Technologies,Technology
+UBER,UBER.MX,Uber Technologies,Technology
+ARM,ARM.MX,Arm Holdings,Technology
+NFLX,NFLX.MX,Netflix Inc.,Software
+SPOT,SPOT.MX,Spotify Technology,Software
+SQ,SQ.MX,Block Inc. (Square),Software
+PYPL,PYPL.MX,PayPal Holdings,Software
+COIN,COIN.MX,Coinbase Global,Software
+ABNB,ABNB.MX,Airbnb Inc.,Software
+SNAP,SNAP.MX,Snap Inc.,Software
+PINS,PINS.MX,Pinterest Inc.,Software
+RBLX,RBLX.MX,Roblox Corporation,Software
+U,U.MX,Unity Software,Software
+ROKU,ROKU.MX,Roku Inc.,Software
+TWLO,TWLO.MX,Twilio Inc.,Software
+TEAM,TEAM.MX,Atlassian Corporation,Software
+HUBS,HUBS.MX,HubSpot Inc.,Software
+TTD,TTD.MX,The Trade Desk,Software
+DOCU,DOCU.MX,DocuSign Inc.,Software
+ZM,ZM.MX,Zoom Video Communications,Software
+OKTA,OKTA.MX,Okta Inc.,Software
+MDB,MDB.MX,MongoDB Inc.,Software
+VEEV,VEEV.MX,Veeva Systems,Software
+BILL,BILL.MX,BILL Holdings,Software
+BABA,BABA.MX,Alibaba Group,E-Commerce
+JD,JD.MX,JD.com Inc.,E-Commerce
+PDD,PDD.MX,PDD Holdings (Pinduoduo),E-Commerce
+MELI,MELI.MX,MercadoLibre Inc.,E-Commerce
+SE,SE.MX,Sea Limited,E-Commerce
+EBAY,EBAY.MX,eBay Inc.,E-Commerce
+ETSY,ETSY.MX,Etsy Inc.,E-Commerce
+WMT,WMT.MX,Walmart Inc.,Retail
+COST,COST.MX,Costco Wholesale,Retail
+HD,HD.MX,The Home Depot,Retail
+TGT,TGT.MX,Target Corporation,Retail
+TJX,TJX.MX,TJX Companies,Retail
+ROST,ROST.MX,Ross Stores,Retail
+DG,DG.MX,Dollar General,Retail
+DLTR,DLTR.MX,Dollar Tree,Retail
+JPM,JPM.MX,JPMorgan Chase & Co.,Financial
+BAC,BAC.MX,Bank of America,Financial
+WFC,WFC.MX,Wells Fargo & Co.,Financial
+GS,GS.MX,Goldman Sachs Group,Financial
+MS,MS.MX,Morgan Stanley,Financial
+C,C.MX,Citigroup Inc.,Financial
+BLK,BLK.MX,BlackRock Inc.,Financial
+SCHW,SCHW.MX,Charles Schwab,Financial
+AXP,AXP.MX,American Express,Financial
+V,V.MX,Visa Inc.,Financial
+MA,MA.MX,Mastercard Inc.,Financial
+COF,COF.MX,Capital One Financial,Financial
+USB,USB.MX,U.S. Bancorp,Financial
+PNC,PNC.MX,PNC Financial Services,Financial
+TFC,TFC.MX,Truist Financial,Financial
+CME,CME.MX,CME Group,Financial
+ICE,ICE.MX,Intercontinental Exchange,Financial
+SPGI,SPGI.MX,S&P Global,Financial
+MMC,MMC.MX,Marsh & McLennan,Financial
+AON,AON.MX,Aon plc,Financial
+FI,FI.MX,Fiserv Inc.,Financial
+FIS,FIS.MX,Fidelity National Information Services,Financial
+BRK-B,BRK-B.MX,Berkshire Hathaway Class B,Insurance
+PGR,PGR.MX,Progressive Corporation,Insurance
+CB,CB.MX,Chubb Limited,Insurance
+MET,MET.MX,MetLife Inc.,Insurance
+AIG,AIG.MX,American International Group,Insurance
+ALL,ALL.MX,Allstate Corporation,Insurance
+JNJ,JNJ.MX,Johnson & Johnson,Healthcare
+UNH,UNH.MX,UnitedHealth Group,Healthcare
+LLY,LLY.MX,Eli Lilly and Company,Healthcare
+ABBV,ABBV.MX,AbbVie Inc.,Healthcare
+MRK,MRK.MX,Merck & Co.,Healthcare
+PFE,PFE.MX,Pfizer Inc.,Healthcare
+TMO,TMO.MX,Thermo Fisher Scientific,Healthcare
+ABT,ABT.MX,Abbott Laboratories,Healthcare
+DHR,DHR.MX,Danaher Corporation,Healthcare
+BMY,BMY.MX,Bristol-Myers Squibb,Healthcare
+AMGN,AMGN.MX,Amgen Inc.,Healthcare
+GILD,GILD.MX,Gilead Sciences,Healthcare
+VRTX,VRTX.MX,Vertex Pharmaceuticals,Healthcare
+ISRG,ISRG.MX,Intuitive Surgical,Healthcare
+REGN,REGN.MX,Regeneron Pharmaceuticals,Healthcare
+SYK,SYK.MX,Stryker Corporation,Healthcare
+BDX,BDX.MX,Becton Dickinson,Healthcare
+MDT,MDT.MX,Medtronic plc,Healthcare
+ZTS,ZTS.MX,Zoetis Inc.,Healthcare
+MRNA,MRNA.MX,Moderna Inc.,Healthcare
+BIIB,BIIB.MX,Biogen Inc.,Healthcare
+DXCM,DXCM.MX,DexCom Inc.,Healthcare
+EW,EW.MX,Edwards Lifesciences,Healthcare
+A,A.MX,Agilent Technologies,Healthcare
+IQV,IQV.MX,IQVIA Holdings,Healthcare
+CI,CI.MX,The Cigna Group,Healthcare
+ELV,ELV.MX,Elevance Health,Healthcare
+HCA,HCA.MX,HCA Healthcare,Healthcare
+CVS,CVS.MX,CVS Health,Healthcare
+NVO,NVO.MX,Novo Nordisk,Healthcare
+AZN,AZN.MX,AstraZeneca,Healthcare
+SNY,SNY.MX,Sanofi,Healthcare
+GSK,GSK.MX,GSK plc,Healthcare
+PG,PG.MX,Procter & Gamble,Consumer Staples
+KO,KO.MX,Coca-Cola Company,Consumer Staples
+PEP,PEP.MX,PepsiCo Inc.,Consumer Staples
+PM,PM.MX,Philip Morris International,Consumer Staples
+MO,MO.MX,Altria Group,Consumer Staples
+MDLZ,MDLZ.MX,Mondelez International,Consumer Staples
+CL,CL.MX,Colgate-Palmolive,Consumer Staples
+KMB,KMB.MX,Kimberly-Clark,Consumer Staples
+EL,EL.MX,Estée Lauder,Consumer Staples
+KHC,KHC.MX,Kraft Heinz,Consumer Staples
+GIS,GIS.MX,General Mills,Consumer Staples
+K,K.MX,Kellanova,Consumer Staples
+HSY,HSY.MX,Hershey Company,Consumer Staples
+STZ,STZ.MX,Constellation Brands,Consumer Staples
+SJM,SJM.MX,J.M. Smucker,Consumer Staples
+CAG,CAG.MX,Conagra Brands,Consumer Staples
+UL,UL.MX,Unilever,Consumer Staples
+DEO,DEO.MX,Diageo,Consumer Staples
+BUD,BUD.MX,Anheuser-Busch InBev,Consumer Staples
+TSLA,TSLA.MX,Tesla Inc.,Consumer Discretionary
+NKE,NKE.MX,NIKE Inc.,Consumer Discretionary
+SBUX,SBUX.MX,Starbucks Corporation,Consumer Discretionary
+DIS,DIS.MX,Walt Disney Company,Consumer Discretionary
+BKNG,BKNG.MX,Booking Holdings,Consumer Discretionary
+LULU,LULU.MX,Lululemon Athletica,Consumer Discretionary
+AZO,AZO.MX,AutoZone Inc.,Consumer Discretionary
+GM,GM.MX,General Motors,Consumer Discretionary
+F,F.MX,Ford Motor Company,Consumer Discretionary
+RIVN,RIVN.MX,Rivian Automotive,Consumer Discretionary
+CMG,CMG.MX,Chipotle Mexican Grill,Consumer Discretionary
+YUM,YUM.MX,Yum! Brands,Consumer Discretionary
+MAR,MAR.MX,Marriott International,Consumer Discretionary
+HLT,HLT.MX,Hilton Worldwide,Consumer Discretionary
+RCL,RCL.MX,Royal Caribbean Cruises,Consumer Discretionary
+LVS,LVS.MX,Las Vegas Sands,Consumer Discretionary
+DHI,DHI.MX,D.R. Horton,Consumer Discretionary
+LEN,LEN.MX,Lennar Corporation,Consumer Discretionary
+XOM,XOM.MX,Exxon Mobil,Energy
+CVX,CVX.MX,Chevron Corporation,Energy
+COP,COP.MX,ConocoPhillips,Energy
+SLB,SLB.MX,Schlumberger,Energy
+EOG,EOG.MX,EOG Resources,Energy
+MPC,MPC.MX,Marathon Petroleum,Energy
+PSX,PSX.MX,Phillips 66,Energy
+VLO,VLO.MX,Valero Energy,Energy
+OXY,OXY.MX,Occidental Petroleum,Energy
+HAL,HAL.MX,Halliburton Company,Energy
+KMI,KMI.MX,Kinder Morgan,Energy
+WMB,WMB.MX,Williams Companies,Energy
+ENB,ENB.MX,Enbridge Inc.,Energy
+BP,BP.MX,BP plc,Energy
+SHEL,SHEL.MX,Shell plc,Energy
+TTE,TTE.MX,TotalEnergies,Energy
+EQNR,EQNR.MX,Equinor ASA,Energy
+CAT,CAT.MX,Caterpillar Inc.,Industrial
+DE,DE.MX,Deere & Company,Industrial
+UNP,UNP.MX,Union Pacific,Industrial
+HON,HON.MX,Honeywell International,Industrial
+UPS,UPS.MX,United Parcel Service,Industrial
+RTX,RTX.MX,RTX Corporation (Raytheon),Industrial
+BA,BA.MX,Boeing Company,Industrial
+LMT,LMT.MX,Lockheed Martin,Industrial
+GE,GE.MX,GE Aerospace,Industrial
+MMM,MMM.MX,3M Company,Industrial
+GD,GD.MX,General Dynamics,Industrial
+NOC,NOC.MX,Northrop Grumman,Industrial
+EMR,EMR.MX,Emerson Electric,Industrial
+ITW,ITW.MX,Illinois Tool Works,Industrial
+WM,WM.MX,Waste Management,Industrial
+ETN,ETN.MX,Eaton Corporation,Industrial
+FDX,FDX.MX,FedEx Corporation,Industrial
+CSX,CSX.MX,CSX Corporation,Industrial
+NSC,NSC.MX,Norfolk Southern,Industrial
+JCI,JCI.MX,Johnson Controls,Industrial
+PH,PH.MX,Parker-Hannifin,Industrial
+ROK,ROK.MX,Rockwell Automation,Industrial
+CMI,CMI.MX,Cummins Inc.,Industrial
+CARR,CARR.MX,Carrier Global,Industrial
+OTIS,OTIS.MX,Otis Worldwide,Industrial
+LIN,LIN.MX,Linde plc,Materials
+SHW,SHW.MX,Sherwin-Williams,Materials
+APD,APD.MX,Air Products & Chemicals,Materials
+ECL,ECL.MX,Ecolab Inc.,Materials
+FCX,FCX.MX,Freeport-McMoRan,Materials
+NEM,NEM.MX,Newmont Corporation,Materials
+DOW,DOW.MX,Dow Inc.,Materials
+DD,DD.MX,DuPont de Nemours,Materials
+NUE,NUE.MX,Nucor Corporation,Materials
+VMC,VMC.MX,Vulcan Materials,Materials
+MLM,MLM.MX,Martin Marietta Materials,Materials
+VALE,VALE.MX,Vale S.A.,Materials
+RIO,RIO.MX,Rio Tinto,Materials
+BHP,BHP.MX,BHP Group,Materials
+NEE,NEE.MX,NextEra Energy,Utilities
+DUK,DUK.MX,Duke Energy,Utilities
+SO,SO.MX,Southern Company,Utilities
+D,D.MX,Dominion Energy,Utilities
+AEP,AEP.MX,American Electric Power,Utilities
+SRE,SRE.MX,Sempra,Utilities
+XEL,XEL.MX,Xcel Energy,Utilities
+ED,ED.MX,Consolidated Edison,Utilities
+EXC,EXC.MX,Exelon Corporation,Utilities
+AWK,AWK.MX,American Water Works,Utilities
+PLD,PLD.MX,Prologis Inc.,REIT
+AMT,AMT.MX,American Tower,REIT
+CCI,CCI.MX,Crown Castle,REIT
+EQIX,EQIX.MX,Equinix Inc.,REIT
+SPG,SPG.MX,Simon Property Group,REIT
+PSA,PSA.MX,Public Storage,REIT
+O,O.MX,Realty Income,REIT
+DLR,DLR.MX,Digital Realty Trust,REIT
+WELL,WELL.MX,Welltower Inc.,REIT
+AVB,AVB.MX,AvalonBay Communities,REIT
+T,T.MX,AT&T Inc.,Telecom
+VZ,VZ.MX,Verizon Communications,Telecom
+TMUS,TMUS.MX,T-Mobile US,Telecom
+CMCSA,CMCSA.MX,Comcast Corporation,Telecom
+CHTR,CHTR.MX,Charter Communications,Telecom
+WBD,WBD.MX,Warner Bros. Discovery,Media
+PARA,PARA.MX,Paramount Global,Media
+EA,EA.MX,Electronic Arts,Media
+TTWO,TTWO.MX,Take-Two Interactive,Media
+SONY,SONY.MX,Sony Group,Media
+NTDOY,NTDOY.MX,Nintendo Co.,Media
+LHX,LHX.MX,L3Harris Technologies,Aerospace
+TDG,TDG.MX,TransDigm Group,Aerospace
+HWM,HWM.MX,Howmet Aerospace,Aerospace
+HEI,HEI.MX,HEICO Corporation,Aerospace
+TM,TM.MX,Toyota Motor,Automotive
+HMC,HMC.MX,Honda Motor Co.,Automotive
+STLA,STLA.MX,Stellantis N.V.,Automotive
+LI,LI.MX,Li Auto Inc.,Automotive
+NIO,NIO.MX,NIO Inc.,Automotive
+XPEV,XPEV.MX,XPeng Inc.,Automotive
+DAL,DAL.MX,Delta Air Lines,Airlines
+UAL,UAL.MX,United Airlines Holdings,Airlines
+LUV,LUV.MX,Southwest Airlines,Airlines
+AAL,AAL.MX,American Airlines Group,Airlines
+NU,NU.MX,Nu Holdings (Nubank),Financial
+SQM,SQM.MX,Sociedad Química y Minera,Materials
+BSBR,BSBR.MX,Banco Santander Brasil,Financial
+PBR,PBR.MX,Petrobras,Energy
+ITUB,ITUB.MX,Itaú Unibanco,Financial
+BBD,BBD.MX,Banco Bradesco,Financial
+CPA,CPA.MX,Copa Holdings,Airlines
+GLOB,GLOB.MX,Globant S.A.,Technology
+DLO,DLO.MX,DLocal Limited,Software
+SAP,SAP.MX,SAP SE,Technology
+ASML,ASML.MX,ASML Holding,Technology
+SIE,SIE.MX,Siemens AG,Industrial
+LYG,LYG.MX,Lloyds Banking Group,Financial
+HSBC,HSBC.MX,HSBC Holdings,Financial
+CS,CS.MX,Credit Suisse Group,Financial
+DB,DB.MX,Deutsche Bank,Financial
+ING,ING.MX,ING Groep,Financial
+ERIC,ERIC.MX,Ericsson,Technology
+NOK,NOK.MX,Nokia Corporation,Technology
+SAN,SAN.MX,Banco Santander,Financial
+BBVA,BBVA.MX,Banco Bilbao Vizcaya Argentaria,Financial
+TEF,TEF.MX,Telefónica,Telecom
+BIDU,BIDU.MX,Baidu Inc.,Technology
+BYDDY,BYDDY.MX,BYD Company,Automotive
+NTES,NTES.MX,NetEase Inc.,Technology
+TCEHY,TCEHY.MX,Tencent Holdings,Technology
+BILI,BILI.MX,Bilibili Inc.,Media
+GOLD,GOLD.MX,Barrick Gold,Mining
+AEM,AEM.MX,Agnico Eagle Mines,Mining
+WPM,WPM.MX,Wheaton Precious Metals,Mining
+SCCO,SCCO.MX,Southern Copper,Mining
+TECK,TECK.MX,Teck Resources,Mining
+TLRY,TLRY.MX,Tilray Brands,Consumer Products
+ENPH,ENPH.MX,Enphase Energy,Clean Energy
+SEDG,SEDG.MX,SolarEdge Technologies,Clean Energy
+FSLR,FSLR.MX,First Solar,Clean Energy
+PLUG,PLUG.MX,Plug Power,Clean Energy
+RUN,RUN.MX,Sunrun Inc.,Clean Energy
+SPY,SPY.MX,SPDR S&P 500 ETF,ETF
+QQQ,QQQ.MX,Invesco QQQ Trust (NASDAQ-100),ETF
+IWM,IWM.MX,iShares Russell 2000 ETF,ETF
+DIA,DIA.MX,SPDR Dow Jones Industrial ETF,ETF
+EEM,EEM.MX,iShares MSCI Emerging Markets ETF,ETF
+VTI,VTI.MX,Vanguard Total Stock Market ETF,ETF
+VOO,VOO.MX,Vanguard S&P 500 ETF,ETF
+VEA,VEA.MX,Vanguard FTSE Developed Markets ETF,ETF
+GLD,GLD.MX,SPDR Gold Shares,ETF
+SLV,SLV.MX,iShares Silver Trust,ETF
+XLF,XLF.MX,Financial Select Sector SPDR,ETF
+XLK,XLK.MX,Technology Select Sector SPDR,ETF
+XLE,XLE.MX,Energy Select Sector SPDR,ETF
+XLV,XLV.MX,Health Care Select Sector SPDR,ETF
+ARKK,ARKK.MX,ARK Innovation ETF,ETF
+ARKG,ARKG.MX,ARK Genomic Revolution ETF,ETF
+EWW,EWW.MX,iShares MSCI Mexico ETF,ETF
+EWZ,EWZ.MX,iShares MSCI Brazil ETF,ETF
+FXI,FXI.MX,iShares China Large-Cap ETF,ETF
+TLT,TLT.MX,iShares 20+ Year Treasury Bond ETF,ETF
+HYG,HYG.MX,iShares iBoxx High Yield Corp Bond ETF,ETF
+LQD,LQD.MX,iShares Investment Grade Corp Bond ETF,ETF
+AGG,AGG.MX,iShares Core U.S. Aggregate Bond ETF,ETF
+BND,BND.MX,Vanguard Total Bond Market ETF,ETF
+IEMG,IEMG.MX,iShares Core MSCI Emerging Markets ETF,ETF
+KWEB,KWEB.MX,KraneShares CSI China Internet ETF,ETF
+SMH,SMH.MX,VanEck Semiconductor ETF,ETF
+XBI,XBI.MX,SPDR S&P Biotech ETF,ETF
+SOXX,SOXX.MX,iShares Semiconductor ETF,ETF

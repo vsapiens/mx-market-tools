@@ -1,7 +1,7 @@
 {
   "name": "@mx-market/stocks",
-  "version": "0.1.1",
-  "description": "Catálogo de 39 acciones BMV/SIC con búsqueda y mapeo a Yahoo Finance",
+  "version": "0.2.0",
+  "description": "Full Mexican market catalog: 100+ BMV domestic stocks + 350+ SIC international stocks with ranked search",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
